@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: config-client
+server:
+  port: 8083
+custom:
+  message: "Это тестовая среда"

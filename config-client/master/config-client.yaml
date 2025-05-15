@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: config-client
+server:
+  port: 8082
+custom:
+  message: "Добро пожаловать в PROD-среду!"
